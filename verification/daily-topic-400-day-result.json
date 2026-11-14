@@ -1,0 +1,41 @@
+{
+  "days": 400,
+  "publishedCanonicalDates": 400,
+  "languageLists": 1600,
+  "entries": 32000,
+  "languages": [
+    {
+      "language_code": "kn",
+      "lessons": 400,
+      "entries": 8000,
+      "minimum": 20,
+      "maximum": 20,
+      "distinctEntries": 8000
+    },
+    {
+      "language_code": "ml",
+      "lessons": 400,
+      "entries": 8000,
+      "minimum": 20,
+      "maximum": 20,
+      "distinctEntries": 8000
+    },
+    {
+      "language_code": "ta",
+      "lessons": 400,
+      "entries": 8000,
+      "minimum": 20,
+      "maximum": 20,
+      "distinctEntries": 8000
+    },
+    {
+      "language_code": "te",
+      "lessons": 400,
+      "entries": 8000,
+      "minimum": 20,
+      "maximum": 20,
+      "distinctEntries": 8000
+    }
+  ],
+  "fixtureType": "Synthetic script-valid expressions; tests persistence and publication constraints, not linguistic quality."
+}
